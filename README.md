@@ -2,6 +2,8 @@
 
 A image editor made using JavaScript canvas.
 
+![screenshot](screenshot.png)
+
 An online version is hosted [here](https://victorribeiro.com/photoEditor)
 
 # About
@@ -12,6 +14,6 @@ It's not fully optimized and needs some improvment, but as I said, it's a ongoin
 
 # To Do
 
-- Undo
-- Better GUI
+- Undo button
+- Better GUI - A toolbar 
 - ??? (sugestions)
