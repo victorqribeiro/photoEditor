@@ -1,0 +1,17 @@
+{
+  "name": "photoEditor",
+  "short_name": "photoEditor",
+  "description": "A javascript photo editor for your phone",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "density": 1
+    }
+  ]
+}
