@@ -2,6 +2,7 @@ const filesToCache = [
     	'./',
       './index.html',
       './js/main.js',
+      './js/aux.js',
       './css/main.css',
       './favicon.png',
       './manifest.json'
